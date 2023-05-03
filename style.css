@@ -1,0 +1,29 @@
+header{
+  background-color: green;
+  color: whitesmoke;
+
+}
+
+body{
+  margin: 0;
+  height: ;
+}
+
+footer{
+  background-color: red;
+ position: absolute; 
+ padding: 20px;
+ bottom: 0;
+ width: calc(100% - 20px);
+
+}
+
+img{
+  width: 516px;
+
+}
+
+form{
+  font-size: 20px;
+  
+}
